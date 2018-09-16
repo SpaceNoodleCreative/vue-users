@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Arthur",
+    "lastName": "Dent",
+    "jobTitle": "unemployed",
+    "showEdit": false
+  },
+  {
+    "firstName": "Zaphod",
+    "lastName": "Beeblebrox",
+    "jobTitle": "president",
+    "showEdit": false
+  },
+  {
+    "firstName": "Marvin",
+    "lastName": "the Android",
+    "jobTitle": "depressed",
+    "showEdit": false
+  },
+  {
+    "firstName": "Ford",
+    "lastName": "Prefect",
+    "jobTitle": "traveler",
+    "showEdit": false
+  },
+  {
+    "firstName": "Slartibartfast",
+    "lastName": "unknown",
+    "jobTitle": "planet designer",
+    "showEdit": false
+  }
+]
